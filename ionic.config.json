@@ -1,0 +1,7 @@
+{
+  "name": "ApplicationPortal",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
